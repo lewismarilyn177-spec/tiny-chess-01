@@ -1,1 +1,1 @@
-tiny-chess-01 entry: see main.py
+A compact deterministic chess engine in Python, built for the tiny-chess-01 competition. It implements full chess rules, alpha-beta search with quiescence, and a Zobrist-hashed transposition table in under 350 lines.
