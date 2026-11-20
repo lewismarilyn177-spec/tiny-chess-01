@@ -1,1 +1,3 @@
-A compact deterministic chess engine in Python, built for the tiny-chess-01 competition. It implements full chess rules, alpha-beta search with quiescence, and a Zobrist-hashed transposition table in under 350 lines.
+# tiny-chess-01
+
+A fork of sunfish (github.com/thomasahle/sunfish, commit e396948, by Thomas Ahle and contributors, GPL-3.0-only). Modified for make.fun: the UCI loop is replaced by the make.fun env driver with a fixed node budget; packed with makefun compress.
